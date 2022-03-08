@@ -1,6 +1,6 @@
-# Java Homeworks
-## Homeworks for HSE Java Course (2020-2021)
+# HSE Java (2020-2021 course)
 
+## Homework
 * [Homework 1](https://github.com/dozmaden/java-homeworks/tree/HW-1)
 * [Homework 2](https://github.com/dozmaden/java-homeworks/tree/HW-2)
 * [Homework 3](https://github.com/dozmaden/java-homeworks/tree/HW-3)
