@@ -1,2 +1,1 @@
-# java-homeworks
-Homeworks for HSE Java Course (2020-2021)
+# Homework 1
